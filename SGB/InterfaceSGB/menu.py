@@ -1,0 +1,10 @@
+def mostrar_menu():
+    print("\n=== SISTEMA DA BIBLIOTECA ===")
+    print("1. Cadastrar livro")
+    print("2. Cadastrar usuário")
+    print("3. Realizar empréstimo")
+    print("4. Listar livros")
+    print("5. Listar usuários")
+    print("6. Listar empréstimos")
+    print("7. Devolver livro")
+    print("0. Sair")
